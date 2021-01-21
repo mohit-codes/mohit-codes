@@ -3,7 +3,6 @@
 <!--
 **mohit-codes/mohit-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 - 🔭 I’m currently working on React js, Flutter
 
 <!--
@@ -15,4 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohit-codes)](https://github.com/mohit-codes/github-readme-stats)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mohit-codes&count_private=true&include_all_commits=true" />
+</div>
+
