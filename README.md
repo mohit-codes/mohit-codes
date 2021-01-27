@@ -1,16 +1,15 @@
-### Hi there 👋
+### <h2>Hi there 👋</h2>
 
-<!--
-**mohit-codes/mohit-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🔭 I’m currently working on React js, Flutter
-
+- 🔭 I’m currently working on Flutter Web
+- 💬 Ask me about Flutter.
+- 📫 How to reach me: 
+  - Linkedin - https://www.linkedin.com/in/mohit-kushwaha/
+  - Email - mohitkush375@gmail.com
+  - Quora - https://www.quora.com/profile/Mohit-Kushwaha-63
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
