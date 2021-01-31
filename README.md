@@ -1,4 +1,4 @@
-### <h1>Hi there 👋, I'm Mohit Kushwaha</h1>
+### <h1>Hi there 👋, I'm Mohit</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kushwaha/)
 
