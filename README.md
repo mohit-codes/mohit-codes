@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kushwaha/)
 
-<h4>I'm a Third year student pursuing Bachelors's in Computer Science & Engineering 🎓 from Sagar Institute of science and technology 🏛.</h4>
+<h4>I'm a pre final year student pursuing Bachelors's in Computer Science & Engineering 🎓 from Sagar Institute of science and technology 🏛.</h4>
 
 - 🔭  I’m currently working on Flutter Web
 - 💬  Ask me about Flutter.
