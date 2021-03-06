@@ -5,7 +5,7 @@
 <h4>I'm a pre final year student pursuing Bachelors's in Computer Science & Engineering 🎓 from Sagar Institute of science and technology 🏛.</h4>
 
 - 🔭 I’m currently working on Flutter Web
-- 💬 Ask me about Flutter, React, Node/Express.
+- 💬 Ask me about Flutter, JS, React, Node/Express, Python.
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
   - [Quora](https://www.quora.com/profile/Mohit-Kushwaha-63)
