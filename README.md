@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning on Flutter, React, JS.
 - 👯 I’m looking to collaborate on ⬆️.
 - 💬 Ask me about Flutter, JS, React, Node/Express, Python or anything apart tech.
-- ⚡ Fun fact: Oats + Banana = ❤️
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
   - [Quora](https://www.quora.com/profile/Mohit-Kushwaha-63)
