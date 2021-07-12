@@ -4,8 +4,8 @@
 
 <h4>I'm a final year student pursuing Bachelors's in Computer Science & Engineering 🎓 from Sagar Institute of science and technology.</h4>
 
-- 🌱 I’m currently learning on Flutter, React, JS.
-- 👯 I’m looking to collaborate on ⬆️.
+- 🌱 I’m currently working on my personal projects and constantly learning Javascript :heart: and it's framework.
+- 👯 I’m open to collaborate on open source projects in frontend.
 - 💬 Ask me about Flutter, JS, React, Node/Express, Python or anything apart tech.
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
