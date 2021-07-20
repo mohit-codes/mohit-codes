@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on my personal projects and constantly learning Javascript :heart: and it's framework.
 - 👯 I’m open to collaborate on open source projects in frontend.
-- 💬 Ask me about Flutter, JS, React, Node/Express, Python or anything apart tech.
+- 💬 Ask me about Flutter, JS 💛, React, Node/Express, Python or anything apart tech.
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
   - [Quora](https://www.quora.com/profile/Mohit-Kushwaha-63)
