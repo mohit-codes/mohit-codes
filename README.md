@@ -1,7 +1,5 @@
 # Hi there 👋, I'm [Mohit](https://mohit-codes.github.io/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kushwaha/)
-
 <h4>I'm a final year student pursuing Bachelors's in Computer Science & Engineering 🎓 from Sagar Institute of science and technology.</h4>
 
 - 🌱 I’m currently working on my personal projects and constantly learning Javascript :heart: and it's framework.
@@ -9,6 +7,8 @@
 - 💬 Ask me about Flutter, JS 💛, React, Node/Express, Python or anything apart tech.
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
+  - [Linkedin](https://www.linkedin.com/in/mohit-kushwaha/)
+  - [Twitter](https://twitter.com/Mohit_codes)
   - [Quora](https://www.quora.com/profile/Mohit-Kushwaha-63)
 
 **Languages and Tools:**
