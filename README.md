@@ -10,6 +10,9 @@
   - [Linkedin](https://www.linkedin.com/in/mohit-kushwaha/)
   - [Twitter](https://twitter.com/Mohit_codes)
   - [Quora](https://www.quora.com/profile/Mohit-Kushwaha-63)
+- :books: Blogs
+  - [Websockets Simplified](https://mohit-codes.hashnode.dev/websockets-simplified)
+  - [Differences between arrow function and regular function in JavaScript](https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript)
 
 **Languages**
 
