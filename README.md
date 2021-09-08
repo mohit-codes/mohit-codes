@@ -13,6 +13,7 @@
 - :books: Blogs
   - [Websockets Simplified](https://mohit-codes.hashnode.dev/websockets-simplified)
   - [Differences between arrow function and regular function in JavaScript](https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript)
+  - [The mystery of this in javascript](https://mohit-codes.hashnode.dev/the-mystery-of-this-in-javascript)
 
 **Languages**
 
