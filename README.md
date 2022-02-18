@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on my personal projects and constantly learning Javascript 💛 and it's frameworks/libraries.
 - 👯 I’m open to collaborate on open source projects in frontend.
-- 💬 Ask me about Flutter, JS 💛, React, Node/Express, Python or anything apart tech.
+- 💬 Ask me about JavaScript, React, Node/Express, or anything apart tech.
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
   - [Linkedin](https://www.linkedin.com/in/mohit-kushwaha/)
@@ -29,12 +29,13 @@
 
 
 <div>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-316192?style=for-the-badge&logo=flutterl&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"alt="HTML"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"alt="Tailwind_CSS"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"alt="CSS"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"alt="React"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"alt="React_Router"/>
+<img src="https://img.shields.io/badge/Flutter-316192?style=for-the-badge&logo=flutterl&logoColor=white"alt="Flutter"/>
 
 <!-- <img src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> -->
 
