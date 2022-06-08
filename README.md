@@ -1,10 +1,11 @@
 # Welcome to Git World, I'm [Mohit](https://mohit-codes.github.io/)
 
-<h4>I'm a final year student pursuing Bachelors's in Computer Science & Engineering 🎓 from Sagar Institute of science and technology.</h4>
+<h4>Currently, I am a Software Engineer at Wednesday Solutions</h4>
 
-- 🌱 I’m currently working on my personal projects and constantly learning Javascript 💛 and it's frameworks/libraries.
+- 💻 Currently, I am a Software Engineer at Wednesday Solutions.
 - 👯 I’m open to collaborate on open source projects in frontend.
 - 💬 Ask me about JavaScript, React, Node/Express, or anything apart tech.
+- 😄 Pronouns: He / Him
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
   - [Linkedin](https://www.linkedin.com/in/mohit-kushwaha/)
