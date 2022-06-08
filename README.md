@@ -1,6 +1,6 @@
 # Welcome to Git World, I'm [Mohit](https://mohit-codes.github.io/)
 
-<h4>Currently, I am a Software Engineer at Wednesday Solutions</h4>
+<h4>A passionate self-taught Frontend Developer from India.</h4>
 
 - 💻 Currently, I am a Software Engineer at Wednesday Solutions.
 - 👯 I’m open to collaborate on open source projects in frontend.
