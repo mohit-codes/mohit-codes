@@ -4,7 +4,7 @@
 
 - 💻 Currently, I am a Software Engineer at Wednesday Solutions.
 - 👯 I’m open to collaborate on open source projects in frontend.
-- 💬 Ask me about JavaScript, React, Node/Express, or anything apart tech.
+- 💬 Ask me about JavaScript, React, GraphQl or anything apart tech.
 - 😄 Pronouns: He / Him
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
@@ -17,16 +17,17 @@
   - [Differences between arrow function and regular function in JavaScript](https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript)
   - [The mystery of this in javascript](https://mohit-codes.hashnode.dev/the-mystery-of-this-in-javascript)
 
-**Languages**
+### Languages
 
 <div>
 <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 
-**Front end**
+### Frontend
 
 
 <div>
@@ -34,30 +35,39 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"alt="Tailwind_CSS"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"alt="CSS"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"alt="React"/>
+<img src="https://img.shields.io/badge/Astro-9333EA?style=for-the-badge&logo=astro&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"alt="graphql"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"alt="React_Router"/>
-<img src="https://img.shields.io/badge/Flutter-316192?style=for-the-badge&logo=flutterl&logoColor=white"alt="Flutter"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled"/>
+</div>
 
-<!-- <img src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> -->
+### Testing
 
-<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> -->
+<div>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33.svg?&style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+</div>
 
-<!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> -->
 
-<!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> -->
-<!-- <img src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/> -->
-  </div>
-  
-**Back end**
+### Mobile Framework
+
+<div>
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" alt="Capacitor"/>  
+<div>
+
+### Backend
 
 <div>
   <img src="https://img.shields.io/badge/MongoDB-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MYSQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/> 
-<!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"alt="graphql"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
+
 <!-- <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> -->
 
 <!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> -->
