@@ -78,7 +78,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit-codes)](https://github.com/mohit-codes/github-readme-streak-stats)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit-codes&count_private=true&include_all_commits=true&custom_title=Mohit's GitHub stats&show_icons=true&title_color=fb8c00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit-codes&count_private=true&include_all_commits=true&title_color=fb8c00" width="500px"/>
 </div>
 
 <!--
