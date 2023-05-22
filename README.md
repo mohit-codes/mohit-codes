@@ -1,6 +1,6 @@
 # Welcome to Git World, I'm [Mohit](https://mohit-codes.github.io/)
 
-<h4>A passionate self-taught Frontend Developer from India.</h4>
+<h4>A passionate self-taught Developer from India.</h4>
 
 - 💻 Currently, I am a Software Engineer at Wednesday Solutions.
 - 👯 I’m open to collaborate on open source projects in frontend.
@@ -10,7 +10,6 @@
   - [Email](mohitkush375@gmail.com)
   - [Linkedin](https://www.linkedin.com/in/mohit-kushwaha/)
   - [Twitter](https://twitter.com/Mohit_codes)
-  - [Quora](https://www.quora.com/profile/Mohit-Kushwaha-63)
   - [Stack Overflow](https://stackoverflow.com/users/13734412/mohit-kushwaha)
 - :books: Blogs
   - [Websockets Simplified](https://mohit-codes.hashnode.dev/websockets-simplified)
