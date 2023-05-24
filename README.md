@@ -1,4 +1,4 @@
-# Welcome to Git World, I'm [Mohit](https://mohit-codes.github.io/)
+# Welcome to Git World, I'm Mohit
 
 <h4>A passionate self-taught Developer from India.</h4>
 
