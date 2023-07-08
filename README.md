@@ -2,7 +2,7 @@
 
 <h4>A passionate self-taught Developer from India.</h4>
 
-- 💻 Currently, I am a Software Engineer at Wednesday Solutions.
+- 💻 Currently, I am a SDE-1 Frontend at [Gyaan](https://www.gyaan.ai)
 - 👯 I’m open to collaborate on open source projects in frontend.
 - 💬 Ask me about JavaScript, React, GraphQl or anything apart tech.
 - 😄 Pronouns: He / Him
