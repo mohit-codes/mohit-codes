@@ -1,10 +1,10 @@
 # Welcome to Git World, I'm Mohit
 
-<h4>A passionate self-taught Developer from India.</h4>
+<h4>A Passionate Self-taught Software Engineer 👨‍💻 from India India 🇮🇳 </h4>
 
 - 💻 Currently, I am a SDE-1 Frontend at [Gyaan](https://www.gyaan.ai)
-- 👯 I’m open to collaborate on open source projects in frontend.
-- 💬 Ask me about JavaScript, React, GraphQl or anything apart tech.
+- 🤝 I’m open to collaborating on open source projects in frontend.
+- 💬 Ask me about JavaScript, React, GraphQL, or anything apart from tech.
 - 😄 Pronouns: He / Him
 - 📫 How to reach me:
   - [Email](mohitkush375@gmail.com)
@@ -47,14 +47,13 @@
 <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 </div>
 
-
 ### Mobile Framework
 
 <div>
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" alt="Capacitor"/>  
 <div>
 
-### Backend
+### Backend Frameworks & Tools I am Familiar With
 
 <div>
   <img src="https://img.shields.io/badge/MongoDB-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
