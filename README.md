@@ -1,6 +1,6 @@
 # Welcome to Git World, I'm Mohit
 
-<h4>A Passionate Self-taught Software Engineer 👨‍💻 from India India 🇮🇳 </h4>
+<h4>A Passionate Self-taught Software Engineer 👨‍💻 from India 🇮🇳 </h4>
 
 - 💻 Currently, I am a SDE-1 Frontend at [Gyaan](https://www.gyaan.ai)
 - 🤝 I’m open to collaborating on open source projects in frontend.
